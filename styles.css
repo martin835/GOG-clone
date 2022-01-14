@@ -63,3 +63,21 @@ body {
     padding: 0.3rem;
     border-radius: 5px;
 }
+
+.middle-divider {
+   
+}
+
+.middle-divider img {
+    height: 40px;
+}
+
+.middle-divider span {
+    color: purple;
+    font-size: 1.1rem;
+}
+
+.text-bigger {
+    font-size: 1.3rem;
+}
+
