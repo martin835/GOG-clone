@@ -1,3 +1,8 @@
+body {
+    background-color: #d9d9d9;
+}
+
+
 .my-nav-container {
     max-width: 80%;
     margin: 0 auto;
@@ -21,4 +26,10 @@
 
 .nav-right > div > span:last-of-type {
     font-size: 0.7rem;
+}
+
+.highlights {
+    font-size: 1.3rem;
+    font-weight: bolder;
+    border-bottom: 1px solid grey;
 }
