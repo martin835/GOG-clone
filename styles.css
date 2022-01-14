@@ -33,3 +33,16 @@ body {
     font-weight: bolder;
     border-bottom: 1px solid grey;
 }
+
+.carousel-discount {
+    background-color: #6d1d72;
+}
+
+.carousel-add-to-cart {
+    background-color: #95cf2b;
+    color: #212121;
+}
+
+.carousel-caption h5 span {
+    border-radius: 5px;
+}
