@@ -81,3 +81,16 @@ body {
     font-size: 1.3rem;
 }
 
+.my-tabs:hover {
+    font-weight: bold;
+    color: #6d1d72;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #6d1d72 ;
+}
+
+.my-border {
+    border-top: 1px solid rgb(152, 146, 146);
+    border-right: 1px solid rgb(152, 146, 146);
+    border-bottom: 1px solid rgb(152, 146, 146);
+}
+
