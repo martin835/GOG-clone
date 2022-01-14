@@ -29,7 +29,7 @@ body {
 }
 
 .highlights {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: bolder;
     border-bottom: 1px solid grey;
 }
@@ -44,5 +44,22 @@ body {
 }
 
 .carousel-caption h5 span {
+    border-radius: 5px;
+}
+
+.my-card {
+    max-width: 256px;
+}
+
+.strike-discount {
+    text-decoration: line-through;
+    font-size: 0.8rem;
+    ;
+}
+
+.discount-card{
+    background-color: #6d1d72;
+    color: white;
+    padding: 0.3rem;
     border-radius: 5px;
 }
